@@ -5,7 +5,7 @@ permalink: /
 subtitle: AI Researcher at <a href="https://www.anl.gov/">Argonne National Laboratory</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher at Argonne National Laboratory, where I work with Dr. Rajkumar Kettimuthu on machine learning for high performance computing (HPC) and AI for Science.
+I am a postdoctoral researcher at Argonne National Laboratory, where I work with Dr. Rajkumar Kettimuthu on machine learning for high performance computing (HPC) and AI for Science.
 
 I received my Ph.D. in Computer Science from the University of Nevada, Reno, advised by Dr. Feng Yan (director of the Intelligent Data and Systems Lab) and Dr. Lei Yang (director of the Big Data Analytics and Informatics Lab). My research spans machine learning, cloud computing, high performance computing, distributed and parallel systems, and storage systems.
