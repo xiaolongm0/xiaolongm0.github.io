@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Argonne National Laboratory</p>
     <p>Lemont, IL</p>
+    <p><em>Be professional, precise and sometimes be perfect.</em></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
