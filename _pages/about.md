@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: AI Researcher at <a href="https://www.anl.gov/">Argonne National Laboratory</a>
+subtitle: <span style="color:#6f42c1;">AI Researcher at <a href="https://www.anl.gov/" style="color:inherit;">Argonne National Laboratory</a></span>
 
 profile:
   align: left
