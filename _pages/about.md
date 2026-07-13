@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher at Argonne National Laboratory. Machine learning for HPC and AI for Science.
+subtitle: AI Researcher at <a href="https://www.anl.gov/">Argonne National Laboratory</a>
 
 profile:
   align: right
