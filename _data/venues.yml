@@ -1,22 +1,26 @@
+# Venue badges on the publications page.
+# Omitting `color` lets a badge inherit the site theme color, which keeps every
+# badge visually consistent. Only set `color` to deliberately single one out.
+
 "Preprint":
-  color: "#7a7a7a"
+  color: "#0076df"
 
 "SC'26":
   url: https://sc26.supercomputing.org/
-  color: "#f26722"
+  color: "#0076df"
 
 "FAST'20":
   url: https://www.usenix.org/conference/fast20
-  color: "#00369f"
+  color: "#0076df"
 
 "VLDB'23":
   url: https://vldb.org/2023/
-  color: "#8c1515"
+  color: "#0076df"
 
 "ICPE'24":
   url: https://icpe2024.spec.org/
-  color: "#0b6e4f"
+  color: "#0076df"
 
 "PEVA'25":
   url: https://www.sciencedirect.com/journal/performance-evaluation
-  color: "#4a4a4a"
+  color: "#0076df"
