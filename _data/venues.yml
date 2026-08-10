@@ -1,9 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"FAST'20":
+  url: https://www.usenix.org/conference/fast20
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"VLDB'23":
+  url: https://vldb.org/2023/
+  color: "#8c1515"
 
-"Vision":
-  color: "#009f36"
+"ICPE'24":
+  url: https://icpe2024.spec.org/
+  color: "#0b6e4f"
+
+"PEVA'25":
+  url: https://www.sciencedirect.com/journal/performance-evaluation
+  color: "#4a4a4a"
