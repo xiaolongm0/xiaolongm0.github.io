@@ -1,26 +1,8 @@
 # Venue badges on the publications page.
-# Omitting `color` lets a badge inherit the site theme color, which keeps every
-# badge visually consistent. Only set `color` to deliberately single one out.
-
-"Preprint":
-  color: "#0076df"
-
-"SC'26":
-  url: https://sc26.supercomputing.org/
-  color: "#0076df"
-
-"FAST'20":
-  url: https://www.usenix.org/conference/fast20
-  color: "#0076df"
-
-"VLDB'23":
-  url: https://vldb.org/2023/
-  color: "#0076df"
-
-"ICPE'24":
-  url: https://icpe2024.spec.org/
-  color: "#0076df"
-
-"PEVA'25":
-  url: https://www.sciencedirect.com/journal/performance-evaluation
-  color: "#0076df"
+#
+# Empty on purpose: with no entry here every badge inherits the site theme
+# color, so the column reads as one element.
+#
+# Note if you add entries back: jekyll-scholar's smallcaps/latex filters
+# rewrite a straight apostrophe into a curly one, so an abbr of SC'26 renders
+# as SC’26 and will not match a "SC'26" key here. Key on the curly form.
