@@ -35,3 +35,4 @@ nav_order: 4
 - Future Generation Computer Systems (FGCS)
 - IEEE Transactions on Wireless Communications
 - IEEE Transactions on Cloud Computing
+- IEEE Open Journal of the Communications Society
