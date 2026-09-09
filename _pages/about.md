@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral researcher at Argonne National Laboratory, where I work with Dr. Rajkumar Kettimuthu on machine learning for high performance computing (HPC) and AI for Science.
+Xiaolong Ma is currently a Postdoctoral Appointee in the Data Science and Learning (DSL) Division at Argonne National Laboratory. His research lies at the intersection of high-performance computing, machine learning system and distributed systems, with a particular focus on building scalable, efficient, and reliable infrastructure for large-scale AI training and inference.
 
-I received my Ph.D. in Computer Science from the University of Nevada, Reno, advised by Dr. Feng Yan (director of the Intelligent Data and Systems Lab) and Dr. Lei Yang (director of the Big Data Analytics and Informatics Lab). My research spans machine learning, cloud computing, high performance computing, distributed and parallel systems, and storage systems.
+His recent work focuses on optimizing large language model inference on leadership-class computing systems, including Aurora and Polaris. His research explores adaptive and resource-efficient LLM serving, with topics such as prefill/decode disaggregation, dynamic batching and resource scaling, hierarchical KV-cache management, resilient and fault-tolerant inference, and the use of opportunistic or preemptible GPU resources. He is also interested in designing efficient and scalable multi-agent systems for scientific workflows, autonomous scientific discovery, and complex decision-making applications.
+
+His broader research interests include distributed and parallel systems, cloud computing, storage systems, multi-agent systems, and AI for Science.
